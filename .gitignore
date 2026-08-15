@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+*.env.local
+config.local.py
+
+# SQL Server / database
+*.bak
+*.mdf
+*.ldf
+*.ndf
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
